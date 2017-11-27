@@ -1,0 +1,78 @@
+#hcdev-one{background:#fff;border:1px #eaeaea solid;padding:15px;width:438px;}
+#hcdev-one .header{background:#707394;color:#fff;height:100px;position:relative;}
+#hcdev-one .header h1{font-family:raleway;font-size:35px;font-weight:400;left:25px;margin:0;position:absolute;text-align:left;top:25px;}
+#hcdev-one .header h2{font-size:7px;font-weight:400;left:40px;letter-spacing:2px;margin:0;position:absolute;text-align:left;text-transform:uppercase;top:60px;}
+#hcdev-one .header img{border:2px #fff solid;border-radius:100%;height:76px;object-fit:cover;position:absolute;right:10px;top:10px;width:76px;}
+#hcdev-one .contain{background:#fff;height:408px;padding:30px 15px 15px;width:408px;}
+#hcdev-one .contain img{border:3px #efefef solid;float:left;height:120px;margin:5px;object-fit:cover;outline:1px #dadada solid;width:120px;}
+#hcdev-one.hydrangea .header{background:#a03756;}
+#hcdev-one.lily .header{background:#41787a;}
+#hcdev-one.orchid .header{background:#6f395c;}
+#hcdev-one.peony .header{background:#d18879;}
+#hcdev-one.poppy .header{background:#e36d3e;}
+#hcdev-one.rose .header{background:#903131;}
+#hcdev-one.sunflower .header{background:#dbba20;}
+#hcdev-one.tulip .header{background:#d54d93;}
+
+#hcdev-two{background:#fafafa;border:25px #fff solid;outline:1px #dadada solid;padding:20px;width:300px;}
+#hcdev-two quote{display:block;font-family:raleway;font-size:12px;text-align:justify;text-transform:lowercase;}
+#hcdev-two quote b{float:left;font-size:40px;font-weight:400;padding-left:20px;padding-right:20px;padding-top:10px;}
+#hcdev-two h3{font-size:7px;letter-spacing:1px;margin:0;padding-right:15px;padding-top:5px;text-align:right;text-transform:uppercase;}
+
+#hcdev-three{background:#efefef;border:1px #dadada solid;padding:20px;width:412px;}
+#hcdev-three img{background:#fff;border:1px #dadada solid;padding:5px;width:400px;}
+#hcdev-three h1{background:#707394;color:#fff;font-family:raleway;font-weight:400;margin:0 0 5px;padding:25px;}
+#hcdev-three.hydrangea h1{background:#a03756;}
+#hcdev-three.lily h1{background:#41787a;}
+#hcdev-three.orchid h1{background:#6f395c;}
+#hcdev-three.peony h1{background:#d18879;}
+#hcdev-three.poppy h1{background:#e36d3e;}
+#hcdev-three.rose h1{background:#903131;}
+#hcdev-three.sunflower h1{background:#dbba20;}
+#hcdev-three.tulip h1{background:#d54d93;}
+
+#hcdev-four{background:#efefef;border:1px #dadada solid;padding:15px;width:300px;padding-top:10px;}
+#hcdev-four h1{background:#707394;border:4px #fff solid;color:#fff;font-size:7px;font-weight:400;letter-spacing:1px;margin:0;outline:1px #dadada solid;padding:20px 50px;text-transform:uppercase;margin-top:5px;}
+#hcdev-four .blurb{background:#fff;margin-top:5px;outline:1px #dadada solid;padding:25px;text-align:justify;}
+#hcdev-four.hydrangea h1{background:#a03756;}
+#hcdev-four.lily h1{background:#41787a;}
+#hcdev-four.orchid h1{background:#6f395c;}
+#hcdev-four.peony h1{background:#d18879;}
+#hcdev-four.poppy h1{background:#e36d3e;}
+#hcdev-four.rose h1{background:#903131;}
+#hcdev-four.sunflower h1{background:#dbba20;}
+#hcdev-four.tulip h1{background:#d54d93;}
+
+#hcdev-five{background:#fff;border:1px #dadada solid;padding:10px;width:300px;}
+#hcdev-five h1{background:#efefef;font-size:20px;font-weight:400;margin:0;padding:40px;}
+#hcdev-five h1 b{font-size:27px;}
+#hcdev-five img{height:130px;object-fit:cover;width:300px;}
+#hcdev-five h2{background:#707394;color:#fff;font-size:7px;font-weight:400;letter-spacing:1px;margin:-4px 0 0;padding:15px;text-transform:uppercase;}
+#hcdev-five h2 a{color:#fff;}
+#hcdev-five .blurb{background:#fafafa;padding:25px;text-align:justify;}
+#hcdev-five.hydrangea h2{background:#a03756;}
+#hcdev-five.lily h2{background:#41787a;}
+#hcdev-five.orchid h2{background:#6f395c;}
+#hcdev-five.peony h2{background:#d18879;}
+#hcdev-five.poppy h2{background:#e36d3e;}
+#hcdev-five.rose h2{background:#903131;}
+#hcdev-five.sunflower h2{background:#dbba20;}
+#hcdev-five.tulip h2{background:#d54d93;}
+
+#hcdev-six{background:#efefef;border:1px #dadada solid;padding:20px;width:432px;overflow:auto;}
+#hcdev-six img{background:#fff;border:1px #dadada solid;padding:5px;width:196px;float:left;margin:4px;}
+#hcdev-six h1{background:#707394;color:#fff;font-family:raleway;font-weight:400;margin:0 0 5px;padding:25px;}
+#hcdev-six.hydrangea h1{background:#a03756;}
+#hcdev-six.lily h1{background:#41787a;}
+#hcdev-six.orchid h1{background:#6f395c;}
+#hcdev-six.peony h1{background:#d18879;}
+#hcdev-six.poppy h1{background:#e36d3e;}
+#hcdev-six.rose h1{background:#903131;}
+#hcdev-six.sunflower h1{background:#dbba20;}
+#hcdev-six.tulip h1{background:#d54d93;}
+
+#hcdev-seven{background:#efefef;border:1px #dadada solid;margin:25px;outline:25px #fff solid;padding:5px;width:292px;}
+#hcdev-seven .inner{background:#fafafa;border:1px #dadada solid;padding:15px 20px 5px;text-align:justify;width:250px;}
+#hcdev-seven h1{line-height:10px;margin:0;}
+#hcdev-seven h1 b{font-size:11px;}
+#hcdev-seven p{background:#fff;border-top:1px #dadada solid;margin:0 0 15px;padding:15px;}
